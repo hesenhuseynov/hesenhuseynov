@@ -1,16 +1,46 @@
-## Hi there 👋
+# 👋 Welcome
 
-<!--
-**hesenhuseynov/hesenhuseynov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m **Hesen Huseynov** — a .NET Developer with 2.5+ years of experience building scalable backend systems.
 
-Here are some ideas to get you started:
+- 🚀 Passionate about backend development and system design  
+- ☁️ Working with **ASP.NET Core, Web API, and Azure**  
+- 🧠 Focused on **clean architecture, performance, and real-world problem solving**  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🧠 What I Do Best
+
+I specialize in building:
+
+- 🏗️ Scalable & Maintainable Architectures  
+- 🧩 Clean, Testable, and Production-ready Code  
+- ⚡ High-performance backend systems  
+- ☁️ Cloud-based solutions using Azure  
+- 🔄 Event-driven and distributed systems  
+
+My approach combines **clean architecture**, **practical system design**, and **cloud-native thinking**.
+
+---
+
+## ☁️ Microsoft Certifications
+
+I hold Microsoft Azure certifications:
+
+- 📜 Microsoft Certified: Azure Fundamentals (AZ-900) – [https://learn.microsoft.com/en-us/users/hsnhseynov-9047/credentials/5b23f50fec9e0556?ref=https%3A%2F%2Fwww.linkedin.com%2F]
+- 📜 Microsoft Certified: Azure Developer Associate (AZ-204) – [https://learn.microsoft.com/en-gb/users/hassanhuseynov-2225/credentials/c9165e3d9f999cf5?ref=https%3A%2F%2Fwww.linkedin.com%2F]
+
+---
+
+## 🚀 Projects
+
+Here are some of my highlighted projects:
+
+- 🔹 Event-Driven Image Processing System (Azure)  
+- 🔹 Media Processing Pipeline  
+- 🔹 Webhook Processing System  
+
+---
+
+## 📫 Connect With Me
+
+- GitHub: https://github.com/hesenhuseynov
