@@ -1,6 +1,6 @@
 # 👋 Welcome
 
-I’m **Hesen Huseynov** 31 yeras old  — a .NET Developer 4-5 years in programming and  with 2.5+ years of real experience building scalable backend systems.
+I’m **Hesen Huseynov** 31 years  old  — a .NET Developer 4-5 years in programming and  with 2.5+ years of real experience building scalable backend systems.
 
 - 🚀 Passionate about backend development and system design  
 - ☁️ Working with **ASP.NET Core, Web API, and Azure**  
