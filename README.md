@@ -35,8 +35,3 @@ Here are some of my highlighted projects:
 - 🔹 Media Processing Pipeline  
 - 🔹 Webhook Processing System  
 
----
-
-## 📫 Connect With Me
-
-- GitHub: https://github.com/hesenhuseynov
