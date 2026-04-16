@@ -25,7 +25,7 @@ My approach combines **clean architecture**, **practical system design**, and **
 I hold Microsoft Azure certifications:
 
 - 📜 [Microsoft Certified: Azure Fundamentals (AZ-900)](https://learn.microsoft.com/en-us/users/hsnhseynov-9047/credentials/XXXXX)
-- 📜 [Microsoft Certified: Azure Developer Associate (AZ-204)](https://learn.microsoft.com/en-gb/users/hassanhuseynov-2225/credentials/YYYYY)
+- 📜 [Microsoft Certified: Azure Developer Associate (AZ-204)]([https://learn.microsoft.com/en-gb/users/hassanhuseynov-2225/credentials/YYYYY](https://learn.microsoft.com/en-gb/users/hassanhuseynov-2225/credentials/c9165e3d9f999cf5?ref=https%3A%2F%2Fwww.linkedin.com%2F))
 - 
 ## 🚀 Projects
 
