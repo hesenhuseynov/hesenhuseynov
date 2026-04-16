@@ -5,20 +5,7 @@ I’m **Hesen Huseynov** — a .NET Developer 4-5 years in programming and  with
 - 🚀 Passionate about backend development and system design  
 - ☁️ Working with **ASP.NET Core, Web API, and Azure**  
 - 🧠 Focused on **clean architecture, performance, and real-world problem solving**  
-
----
-
-## 🧠 What I Do Best
-
-I specialize in building:
-
-- 🏗️ Scalable & Maintainable Architectures  
-- 🧩 Clean, Testable, and Production-ready Code  
-- ⚡ High-performance backend systems  
-- ☁️ Cloud-based solutions using Azure  
-- 🔄 Event-driven and distributed systems  
-
-My approach combines **clean architecture**, **practical system design**, and **cloud-native thinking**.
+-My approach combines **clean architecture**, **practical system design**, and **cloud-native thinking**.
 
 ---
 
