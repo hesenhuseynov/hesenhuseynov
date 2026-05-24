@@ -5,7 +5,7 @@ I’m **Hesen Huseynov** 31 years  old  — a .NET Developer 4-5 years in progra
 - 🚀 Passionate about backend development and system design  
 - ☁️ Working with **ASP.NET Core, Web API, and Azure**  
 - 🧠 Focused on **clean architecture, performance, and real-world problem solving**  
--My approach combines **clean architecture**, **practical system design**, and **cloud-native thinking**.
+-My approach combines **performans optimization**, **practical system design**, and **cloud-native thinking**.
 
 ---
 
